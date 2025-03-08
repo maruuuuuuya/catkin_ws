@@ -1,0 +1,2 @@
+handsfree_ros_imu:mavros_rover:robot_control:rplidar_ros:vesc/vesc:vesc/vesc_driver:vesc/vesc_hw_interface:vesc/vesc_msgs
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/catkin_ws/install -G Unix Makefiles
